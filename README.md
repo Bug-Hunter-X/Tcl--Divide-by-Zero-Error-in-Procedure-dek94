@@ -1,0 +1,2 @@
+# Tcl Divide by Zero Bug
+This repository demonstrates a common error in Tcl: a divide-by-zero error that can occur when procedures don't adequately handle zero or null values as inputs.  The `bug.tcl` file shows the erroneous code, while `bugSolution.tcl` provides a corrected version.  This example highlights the importance of robust error handling in Tcl procedures.
